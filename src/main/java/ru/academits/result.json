@@ -1,0 +1,2492 @@
+[
+  {
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG",
+    "altSpellings": [
+      "AR",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "area": 2780400.0,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "callingCodes": [
+      "54"
+    ],
+    "capital": "Buenos Aires",
+    "cioc": "ARG",
+    "currencies": [
+      {
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Argentinean",
+    "flag": "https://restcountries.eu/data/arg.svg",
+    "gini": "44.5",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Guaraní",
+        "nativeName": "Avañe'ẽ"
+      }
+    ],
+    "latlng": [
+      -34.0,
+      -64.0
+    ],
+    "name": "Argentina",
+    "nativeName": "Argentina",
+    "numericCode": "032",
+    "population": 43590400,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "topLevelDomain": [
+      ".ar"
+    ],
+    "translations": {
+      "br": "Argentina",
+      "de": "Argentinien",
+      "es": "Argentina",
+      "fa": "آرژانتین",
+      "fr": "Argentine",
+      "hr": "Argentina",
+      "it": "Argentina",
+      "ja": "アルゼンチン",
+      "nl": "Argentinië",
+      "pt": "Argentina"
+    }
+  },
+  {
+    "alpha2Code": "BO",
+    "alpha3Code": "BOL",
+    "altSpellings": [
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia"
+    ],
+    "area": 1098581.0,
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "callingCodes": [
+      "591"
+    ],
+    "capital": "Sucre",
+    "cioc": "BOL",
+    "currencies": [
+      {
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    ],
+    "demonym": "Bolivian",
+    "flag": "https://restcountries.eu/data/bol.svg",
+    "gini": "56.3",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Aymara",
+        "nativeName": "aymar aru"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Quechua",
+        "nativeName": "Runa Simi"
+      }
+    ],
+    "latlng": [
+      -17.0,
+      -65.0
+    ],
+    "name": "Bolivia (Plurinational State of)",
+    "nativeName": "Bolivia",
+    "numericCode": "068",
+    "population": 10985059,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".bo"
+    ],
+    "translations": {
+      "br": "Bolívia",
+      "de": "Bolivien",
+      "es": "Bolivia",
+      "fa": "بولیوی",
+      "fr": "Bolivie",
+      "hr": "Bolivija",
+      "it": "Bolivia",
+      "ja": "ボリビア多民族国",
+      "nl": "Bolivia",
+      "pt": "Bolívia"
+    }
+  },
+  {
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "altSpellings": [
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "area": 8515767.0,
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "callingCodes": [
+      "55"
+    ],
+    "capital": "Brasília",
+    "cioc": "BRA",
+    "currencies": [
+      {
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    ],
+    "demonym": "Brazilian",
+    "flag": "https://restcountries.eu/data/bra.svg",
+    "gini": "54.7",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "latlng": [
+      -10.0,
+      -55.0
+    ],
+    "name": "Brazil",
+    "nativeName": "Brasil",
+    "numericCode": "076",
+    "population": 206135893,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ],
+    "topLevelDomain": [
+      ".br"
+    ],
+    "translations": {
+      "br": "Brasil",
+      "de": "Brasilien",
+      "es": "Brasil",
+      "fa": "برزیل",
+      "fr": "Brésil",
+      "hr": "Brazil",
+      "it": "Brasile",
+      "ja": "ブラジル",
+      "nl": "Brazilië",
+      "pt": "Brasil"
+    }
+  },
+  {
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "altSpellings": [
+      "CA"
+    ],
+    "area": 9984670.0,
+    "borders": [
+      "USA"
+    ],
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Ottawa",
+    "cioc": "CAN",
+    "currencies": [
+      {
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Canadian",
+    "flag": "https://restcountries.eu/data/can.svg",
+    "gini": "32.6",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "latlng": [
+      60.0,
+      -95.0
+    ],
+    "name": "Canada",
+    "nativeName": "Canada",
+    "numericCode": "124",
+    "population": 36155487,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "North American Free Trade Agreement",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Northern America",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "topLevelDomain": [
+      ".ca"
+    ],
+    "translations": {
+      "br": "Canadá",
+      "de": "Kanada",
+      "es": "Canadá",
+      "fa": "کانادا",
+      "fr": "Canada",
+      "hr": "Kanada",
+      "it": "Canada",
+      "ja": "カナダ",
+      "nl": "Canada",
+      "pt": "Canadá"
+    }
+  },
+  {
+    "alpha2Code": "CL",
+    "alpha3Code": "CHL",
+    "altSpellings": [
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "area": 756102.0,
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "callingCodes": [
+      "56"
+    ],
+    "capital": "Santiago",
+    "cioc": "CHI",
+    "currencies": [
+      {
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Chilean",
+    "flag": "https://restcountries.eu/data/chl.svg",
+    "gini": "52.1",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      -30.0,
+      -71.0
+    ],
+    "name": "Chile",
+    "nativeName": "Chile",
+    "numericCode": "152",
+    "population": 18191900,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Pacific Alliance",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      },
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".cl"
+    ],
+    "translations": {
+      "br": "Chile",
+      "de": "Chile",
+      "es": "Chile",
+      "fa": "شیلی",
+      "fr": "Chili",
+      "hr": "Čile",
+      "it": "Cile",
+      "ja": "チリ",
+      "nl": "Chili",
+      "pt": "Chile"
+    }
+  },
+  {
+    "alpha2Code": "CO",
+    "alpha3Code": "COL",
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "area": 1141748.0,
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "callingCodes": [
+      "57"
+    ],
+    "capital": "Bogotá",
+    "cioc": "COL",
+    "currencies": [
+      {
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Colombian",
+    "flag": "https://restcountries.eu/data/col.svg",
+    "gini": "55.9",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      4.0,
+      -72.0
+    ],
+    "name": "Colombia",
+    "nativeName": "Colombia",
+    "numericCode": "170",
+    "population": 48759958,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Pacific Alliance",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      },
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".co"
+    ],
+    "translations": {
+      "br": "Colômbia",
+      "de": "Kolumbien",
+      "es": "Colombia",
+      "fa": "کلمبیا",
+      "fr": "Colombie",
+      "hr": "Kolumbija",
+      "it": "Colombia",
+      "ja": "コロンビア",
+      "nl": "Colombia",
+      "pt": "Colômbia"
+    }
+  },
+  {
+    "alpha2Code": "CR",
+    "alpha3Code": "CRI",
+    "altSpellings": [
+      "CR",
+      "Republic of Costa Rica",
+      "República de Costa Rica"
+    ],
+    "area": 51100.0,
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "callingCodes": [
+      "506"
+    ],
+    "capital": "San José",
+    "cioc": "CRC",
+    "currencies": [
+      {
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    ],
+    "demonym": "Costa Rican",
+    "flag": "https://restcountries.eu/data/cri.svg",
+    "gini": "50.7",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      10.0,
+      -84.0
+    ],
+    "name": "Costa Rica",
+    "nativeName": "Costa Rica",
+    "numericCode": "188",
+    "population": 4890379,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "topLevelDomain": [
+      ".cr"
+    ],
+    "translations": {
+      "br": "Costa Rica",
+      "de": "Costa Rica",
+      "es": "Costa Rica",
+      "fa": "کاستاریکا",
+      "fr": "Costa Rica",
+      "hr": "Kostarika",
+      "it": "Costa Rica",
+      "ja": "コスタリカ",
+      "nl": "Costa Rica",
+      "pt": "Costa Rica"
+    }
+  },
+  {
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB",
+    "altSpellings": [
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "area": 109884.0,
+    "borders": [],
+    "callingCodes": [
+      "53"
+    ],
+    "capital": "Havana",
+    "cioc": "CUB",
+    "currencies": [
+      {
+        "code": "CUC",
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      {
+        "code": "CUP",
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Cuban",
+    "flag": "https://restcountries.eu/data/cub.svg",
+    "gini": null,
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      21.5,
+      -80.0
+    ],
+    "name": "Cuba",
+    "nativeName": "Cuba",
+    "numericCode": "192",
+    "population": 11239004,
+    "region": "Americas",
+    "regionalBlocs": [],
+    "subregion": "Caribbean",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".cu"
+    ],
+    "translations": {
+      "br": "Cuba",
+      "de": "Kuba",
+      "es": "Cuba",
+      "fa": "کوبا",
+      "fr": "Cuba",
+      "hr": "Kuba",
+      "it": "Cuba",
+      "ja": "キューバ",
+      "nl": "Cuba",
+      "pt": "Cuba"
+    }
+  },
+  {
+    "alpha2Code": "DO",
+    "alpha3Code": "DOM",
+    "altSpellings": [
+      "DO"
+    ],
+    "area": 48671.0,
+    "borders": [
+      "HTI"
+    ],
+    "callingCodes": [
+      "1809",
+      "1829",
+      "1849"
+    ],
+    "capital": "Santo Domingo",
+    "cioc": "DOM",
+    "currencies": [
+      {
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Dominican",
+    "flag": "https://restcountries.eu/data/dom.svg",
+    "gini": "47.2",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      19.0,
+      -70.66666666
+    ],
+    "name": "Dominican Republic",
+    "nativeName": "República Dominicana",
+    "numericCode": "214",
+    "population": 10075045,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Caribbean Community",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      },
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Caribbean",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".do"
+    ],
+    "translations": {
+      "br": "República Dominicana",
+      "de": "Dominikanische Republik",
+      "es": "República Dominicana",
+      "fa": "جمهوری دومینیکن",
+      "fr": "République dominicaine",
+      "hr": "Dominikanska Republika",
+      "it": "Repubblica Dominicana",
+      "ja": "ドミニカ共和国",
+      "nl": "Dominicaanse Republiek",
+      "pt": "República Dominicana"
+    }
+  },
+  {
+    "alpha2Code": "EC",
+    "alpha3Code": "ECU",
+    "altSpellings": [
+      "EC",
+      "Republic of Ecuador",
+      "República del Ecuador"
+    ],
+    "area": 276841.0,
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "callingCodes": [
+      "593"
+    ],
+    "capital": "Quito",
+    "cioc": "ECU",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Ecuadorean",
+    "flag": "https://restcountries.eu/data/ecu.svg",
+    "gini": "49.3",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      -2.0,
+      -77.5
+    ],
+    "name": "Ecuador",
+    "nativeName": "Ecuador",
+    "numericCode": "218",
+    "population": 16545799,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".ec"
+    ],
+    "translations": {
+      "br": "Equador",
+      "de": "Ecuador",
+      "es": "Ecuador",
+      "fa": "اکوادور",
+      "fr": "Équateur",
+      "hr": "Ekvador",
+      "it": "Ecuador",
+      "ja": "エクアドル",
+      "nl": "Ecuador",
+      "pt": "Equador"
+    }
+  },
+  {
+    "alpha2Code": "SV",
+    "alpha3Code": "SLV",
+    "altSpellings": [
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador"
+    ],
+    "area": 21041.0,
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "callingCodes": [
+      "503"
+    ],
+    "capital": "San Salvador",
+    "cioc": "ESA",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Salvadoran",
+    "flag": "https://restcountries.eu/data/slv.svg",
+    "gini": "48.3",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "name": "El Salvador",
+    "nativeName": "El Salvador",
+    "numericCode": "222",
+    "population": 6520675,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "topLevelDomain": [
+      ".sv"
+    ],
+    "translations": {
+      "br": "El Salvador",
+      "de": "El Salvador",
+      "es": "El Salvador",
+      "fa": "السالوادور",
+      "fr": "Salvador",
+      "hr": "Salvador",
+      "it": "El Salvador",
+      "ja": "エルサルバドル",
+      "nl": "El Salvador",
+      "pt": "El Salvador"
+    }
+  },
+  {
+    "alpha2Code": "GT",
+    "alpha3Code": "GTM",
+    "altSpellings": [
+      "GT"
+    ],
+    "area": 108889.0,
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "callingCodes": [
+      "502"
+    ],
+    "capital": "Guatemala City",
+    "cioc": "GUA",
+    "currencies": [
+      {
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    ],
+    "demonym": "Guatemalan",
+    "flag": "https://restcountries.eu/data/gtm.svg",
+    "gini": "55.9",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "name": "Guatemala",
+    "nativeName": "Guatemala",
+    "numericCode": "320",
+    "population": 16176133,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "topLevelDomain": [
+      ".gt"
+    ],
+    "translations": {
+      "br": "Guatemala",
+      "de": "Guatemala",
+      "es": "Guatemala",
+      "fa": "گواتمالا",
+      "fr": "Guatemala",
+      "hr": "Gvatemala",
+      "it": "Guatemala",
+      "ja": "グアテマラ",
+      "nl": "Guatemala",
+      "pt": "Guatemala"
+    }
+  },
+  {
+    "alpha2Code": "HT",
+    "alpha3Code": "HTI",
+    "altSpellings": [
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti"
+    ],
+    "area": 27750.0,
+    "borders": [
+      "DOM"
+    ],
+    "callingCodes": [
+      "509"
+    ],
+    "capital": "Port-au-Prince",
+    "cioc": "HAI",
+    "currencies": [
+      {
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    ],
+    "demonym": "Haitian",
+    "flag": "https://restcountries.eu/data/hti.svg",
+    "gini": "59.2",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Haitian",
+        "nativeName": "Kreyòl ayisyen"
+      }
+    ],
+    "latlng": [
+      19.0,
+      -72.41666666
+    ],
+    "name": "Haiti",
+    "nativeName": "Haïti",
+    "numericCode": "332",
+    "population": 11078033,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Caribbean Community",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Caribbean",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".ht"
+    ],
+    "translations": {
+      "br": "Haiti",
+      "de": "Haiti",
+      "es": "Haiti",
+      "fa": "هائیتی",
+      "fr": "Haïti",
+      "hr": "Haiti",
+      "it": "Haiti",
+      "ja": "ハイチ",
+      "nl": "Haïti",
+      "pt": "Haiti"
+    }
+  },
+  {
+    "alpha2Code": "HN",
+    "alpha3Code": "HND",
+    "altSpellings": [
+      "HN",
+      "Republic of Honduras",
+      "República de Honduras"
+    ],
+    "area": 112492.0,
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "callingCodes": [
+      "504"
+    ],
+    "capital": "Tegucigalpa",
+    "cioc": "HON",
+    "currencies": [
+      {
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    ],
+    "demonym": "Honduran",
+    "flag": "https://restcountries.eu/data/hnd.svg",
+    "gini": "57.0",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      15.0,
+      -86.5
+    ],
+    "name": "Honduras",
+    "nativeName": "Honduras",
+    "numericCode": "340",
+    "population": 8576532,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "topLevelDomain": [
+      ".hn"
+    ],
+    "translations": {
+      "br": "Honduras",
+      "de": "Honduras",
+      "es": "Honduras",
+      "fa": "هندوراس",
+      "fr": "Honduras",
+      "hr": "Honduras",
+      "it": "Honduras",
+      "ja": "ホンジュラス",
+      "nl": "Honduras",
+      "pt": "Honduras"
+    }
+  },
+  {
+    "alpha2Code": "JM",
+    "alpha3Code": "JAM",
+    "altSpellings": [
+      "JM"
+    ],
+    "area": 10991.0,
+    "borders": [],
+    "callingCodes": [
+      "1876"
+    ],
+    "capital": "Kingston",
+    "cioc": "JAM",
+    "currencies": [
+      {
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Jamaican",
+    "flag": "https://restcountries.eu/data/jam.svg",
+    "gini": "45.5",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "name": "Jamaica",
+    "nativeName": "Jamaica",
+    "numericCode": "388",
+    "population": 2723246,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Caribbean Community",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Caribbean",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".jm"
+    ],
+    "translations": {
+      "br": "Jamaica",
+      "de": "Jamaika",
+      "es": "Jamaica",
+      "fa": "جامائیکا",
+      "fr": "Jamaïque",
+      "hr": "Jamajka",
+      "it": "Giamaica",
+      "ja": "ジャマイカ",
+      "nl": "Jamaica",
+      "pt": "Jamaica"
+    }
+  },
+  {
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX",
+    "altSpellings": [
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
+    ],
+    "area": 1964375.0,
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "callingCodes": [
+      "52"
+    ],
+    "capital": "Mexico City",
+    "cioc": "MEX",
+    "currencies": [
+      {
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Mexican",
+    "flag": "https://restcountries.eu/data/mex.svg",
+    "gini": "47.0",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      23.0,
+      -102.0
+    ],
+    "name": "Mexico",
+    "nativeName": "México",
+    "numericCode": "484",
+    "population": 122273473,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Pacific Alliance",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      },
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "North American Free Trade Agreement",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ],
+    "topLevelDomain": [
+      ".mx"
+    ],
+    "translations": {
+      "br": "México",
+      "de": "Mexiko",
+      "es": "México",
+      "fa": "مکزیک",
+      "fr": "Mexique",
+      "hr": "Meksiko",
+      "it": "Messico",
+      "ja": "メキシコ",
+      "nl": "Mexico",
+      "pt": "México"
+    }
+  },
+  {
+    "alpha2Code": "NI",
+    "alpha3Code": "NIC",
+    "altSpellings": [
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "area": 130373.0,
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "callingCodes": [
+      "505"
+    ],
+    "capital": "Managua",
+    "cioc": "NCA",
+    "currencies": [
+      {
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    ],
+    "demonym": "Nicaraguan",
+    "flag": "https://restcountries.eu/data/nic.svg",
+    "gini": "40.5",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      13.0,
+      -85.0
+    ],
+    "name": "Nicaragua",
+    "nativeName": "Nicaragua",
+    "numericCode": "558",
+    "population": 6262703,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "topLevelDomain": [
+      ".ni"
+    ],
+    "translations": {
+      "br": "Nicarágua",
+      "de": "Nicaragua",
+      "es": "Nicaragua",
+      "fa": "نیکاراگوئه",
+      "fr": "Nicaragua",
+      "hr": "Nikaragva",
+      "it": "Nicaragua",
+      "ja": "ニカラグア",
+      "nl": "Nicaragua",
+      "pt": "Nicarágua"
+    }
+  },
+  {
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN",
+    "altSpellings": [
+      "PA",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "area": 75417.0,
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "callingCodes": [
+      "507"
+    ],
+    "capital": "Panama City",
+    "cioc": "PAN",
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Panamanian",
+    "flag": "https://restcountries.eu/data/pan.svg",
+    "gini": "51.9",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      9.0,
+      -80.0
+    ],
+    "name": "Panama",
+    "nativeName": "Panamá",
+    "numericCode": "591",
+    "population": 3814672,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Central American Integration System",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Central America",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".pa"
+    ],
+    "translations": {
+      "br": "Panamá",
+      "de": "Panama",
+      "es": "Panamá",
+      "fa": "پاناما",
+      "fr": "Panama",
+      "hr": "Panama",
+      "it": "Panama",
+      "ja": "パナマ",
+      "nl": "Panama",
+      "pt": "Panamá"
+    }
+  },
+  {
+    "alpha2Code": "PY",
+    "alpha3Code": "PRY",
+    "altSpellings": [
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái"
+    ],
+    "area": 406752.0,
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "callingCodes": [
+      "595"
+    ],
+    "capital": "Asunción",
+    "cioc": "PAR",
+    "currencies": [
+      {
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    ],
+    "demonym": "Paraguayan",
+    "flag": "https://restcountries.eu/data/pry.svg",
+    "gini": "52.4",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Guaraní",
+        "nativeName": "Avañe'ẽ"
+      }
+    ],
+    "latlng": [
+      -23.0,
+      -58.0
+    ],
+    "name": "Paraguay",
+    "nativeName": "Paraguay",
+    "numericCode": "600",
+    "population": 6854536,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".py"
+    ],
+    "translations": {
+      "br": "Paraguai",
+      "de": "Paraguay",
+      "es": "Paraguay",
+      "fa": "پاراگوئه",
+      "fr": "Paraguay",
+      "hr": "Paragvaj",
+      "it": "Paraguay",
+      "ja": "パラグアイ",
+      "nl": "Paraguay",
+      "pt": "Paraguai"
+    }
+  },
+  {
+    "alpha2Code": "PE",
+    "alpha3Code": "PER",
+    "altSpellings": [
+      "PE",
+      "Republic of Peru",
+      " República del Perú"
+    ],
+    "area": 1285216.0,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "callingCodes": [
+      "51"
+    ],
+    "capital": "Lima",
+    "cioc": "PER",
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      }
+    ],
+    "demonym": "Peruvian",
+    "flag": "https://restcountries.eu/data/per.svg",
+    "gini": "48.1",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      -10.0,
+      -76.0
+    ],
+    "name": "Peru",
+    "nativeName": "Perú",
+    "numericCode": "604",
+    "population": 31488700,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Pacific Alliance",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      },
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "topLevelDomain": [
+      ".pe"
+    ],
+    "translations": {
+      "br": "Peru",
+      "de": "Peru",
+      "es": "Perú",
+      "fa": "پرو",
+      "fr": "Pérou",
+      "hr": "Peru",
+      "it": "Perù",
+      "ja": "ペルー",
+      "nl": "Peru",
+      "pt": "Peru"
+    }
+  },
+  {
+    "alpha2Code": "PR",
+    "alpha3Code": "PRI",
+    "altSpellings": [
+      "PR",
+      "Commonwealth of Puerto Rico",
+      "Estado Libre Asociado de Puerto Rico"
+    ],
+    "area": 8870.0,
+    "borders": [],
+    "callingCodes": [
+      "1787",
+      "1939"
+    ],
+    "capital": "San Juan",
+    "cioc": "PUR",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Puerto Rican",
+    "flag": "https://restcountries.eu/data/pri.svg",
+    "gini": null,
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "latlng": [
+      18.25,
+      -66.5
+    ],
+    "name": "Puerto Rico",
+    "nativeName": "Puerto Rico",
+    "numericCode": "630",
+    "population": 3474182,
+    "region": "Americas",
+    "regionalBlocs": [],
+    "subregion": "Caribbean",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".pr"
+    ],
+    "translations": {
+      "br": "Porto Rico",
+      "de": "Puerto Rico",
+      "es": "Puerto Rico",
+      "fa": "پورتو ریکو",
+      "fr": "Porto Rico",
+      "hr": "Portoriko",
+      "it": "Porto Rico",
+      "ja": "プエルトリコ",
+      "nl": "Puerto Rico",
+      "pt": "Porto Rico"
+    }
+  },
+  {
+    "alpha2Code": "TT",
+    "alpha3Code": "TTO",
+    "altSpellings": [
+      "TT",
+      "Republic of Trinidad and Tobago"
+    ],
+    "area": 5130.0,
+    "borders": [],
+    "callingCodes": [
+      "1868"
+    ],
+    "capital": "Port of Spain",
+    "cioc": "TTO",
+    "currencies": [
+      {
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Trinidadian",
+    "flag": "https://restcountries.eu/data/tto.svg",
+    "gini": "40.3",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "latlng": [
+      11.0,
+      -61.0
+    ],
+    "name": "Trinidad and Tobago",
+    "nativeName": "Trinidad and Tobago",
+    "numericCode": "780",
+    "population": 1349667,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Caribbean Community",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Caribbean",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".tt"
+    ],
+    "translations": {
+      "br": "Trinidad e Tobago",
+      "de": "Trinidad und Tobago",
+      "es": "Trinidad y Tobago",
+      "fa": "ترینیداد و توباگو",
+      "fr": "Trinité et Tobago",
+      "hr": "Trinidad i Tobago",
+      "it": "Trinidad e Tobago",
+      "ja": "トリニダード・トバゴ",
+      "nl": "Trinidad en Tobago",
+      "pt": "Trindade e Tobago"
+    }
+  },
+  {
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "altSpellings": [
+      "US",
+      "USA",
+      "United States of America"
+    ],
+    "area": 9629091.0,
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "callingCodes": [
+      "1"
+    ],
+    "capital": "Washington, D.C.",
+    "cioc": "USA",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "American",
+    "flag": "https://restcountries.eu/data/usa.svg",
+    "gini": "48.0",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "latlng": [
+      38.0,
+      -97.0
+    ],
+    "name": "United States of America",
+    "nativeName": "United States",
+    "numericCode": "840",
+    "population": 323947000,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "North American Free Trade Agreement",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "Northern America",
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "topLevelDomain": [
+      ".us"
+    ],
+    "translations": {
+      "br": "Estados Unidos",
+      "de": "Vereinigte Staaten von Amerika",
+      "es": "Estados Unidos",
+      "fa": "ایالات متحده آمریکا",
+      "fr": "États-Unis",
+      "hr": "Sjedinjene Američke Države",
+      "it": "Stati Uniti D'America",
+      "ja": "アメリカ合衆国",
+      "nl": "Verenigde Staten",
+      "pt": "Estados Unidos"
+    }
+  },
+  {
+    "alpha2Code": "UY",
+    "alpha3Code": "URY",
+    "altSpellings": [
+      "UY",
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay"
+    ],
+    "area": 181034.0,
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "callingCodes": [
+      "598"
+    ],
+    "capital": "Montevideo",
+    "cioc": "URU",
+    "currencies": [
+      {
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    ],
+    "demonym": "Uruguayan",
+    "flag": "https://restcountries.eu/data/ury.svg",
+    "gini": "39.7",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      -33.0,
+      -56.0
+    ],
+    "name": "Uruguay",
+    "nativeName": "Uruguay",
+    "numericCode": "858",
+    "population": 3480222,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "topLevelDomain": [
+      ".uy"
+    ],
+    "translations": {
+      "br": "Uruguai",
+      "de": "Uruguay",
+      "es": "Uruguay",
+      "fa": "اروگوئه",
+      "fr": "Uruguay",
+      "hr": "Urugvaj",
+      "it": "Uruguay",
+      "ja": "ウルグアイ",
+      "nl": "Uruguay",
+      "pt": "Uruguai"
+    }
+  },
+  {
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN",
+    "altSpellings": [
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "República Bolivariana de Venezuela"
+    ],
+    "area": 916445.0,
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "callingCodes": [
+      "58"
+    ],
+    "capital": "Caracas",
+    "cioc": "VEN",
+    "currencies": [
+      {
+        "code": "VEF",
+        "name": "Venezuelan bolívar",
+        "symbol": "Bs F"
+      }
+    ],
+    "demonym": "Venezuelan",
+    "flag": "https://restcountries.eu/data/ven.svg",
+    "gini": "44.8",
+    "languages": [
+      {
+        "iso6391": null,
+        "iso6392": null,
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "latlng": [
+      8.0,
+      -66.0
+    ],
+    "name": "Venezuela (Bolivarian Republic of)",
+    "nativeName": "Venezuela",
+    "numericCode": "862",
+    "population": 31028700,
+    "region": "Americas",
+    "regionalBlocs": [
+      {
+        "alpha2Code": null,
+        "alpha3Code": null,
+        "altSpellings": null,
+        "area": 0.0,
+        "borders": null,
+        "callingCodes": null,
+        "capital": null,
+        "cioc": null,
+        "currencies": null,
+        "demonym": null,
+        "flag": null,
+        "gini": null,
+        "languages": null,
+        "latlng": null,
+        "name": "Union of South American Nations",
+        "nativeName": null,
+        "numericCode": null,
+        "population": 0,
+        "region": null,
+        "regionalBlocs": null,
+        "subregion": null,
+        "timezones": null,
+        "topLevelDomain": null,
+        "translations": null
+      }
+    ],
+    "subregion": "South America",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "topLevelDomain": [
+      ".ve"
+    ],
+    "translations": {
+      "br": "Venezuela",
+      "de": "Venezuela",
+      "es": "Venezuela",
+      "fa": "ونزوئلا",
+      "fr": "Venezuela",
+      "hr": "Venezuela",
+      "it": "Venezuela",
+      "ja": "ベネズエラ・ボリバル共和国",
+      "nl": "Venezuela",
+      "pt": "Venezuela"
+    }
+  }
+]
